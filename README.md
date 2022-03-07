@@ -3,6 +3,7 @@
 [Please click this](https://coderbyte.com/sl-candidate?promo=supremetechcoltd-j377u:algorithm-assessment-1vp6bd6z2l) to start the Coderbyte Test.
 
 [Round 1]()
+
 [Round 2]()
 
 ### Kindly note down some important details related to this Test:
@@ -13,7 +14,6 @@
 
 ### Test Android Engineer (Intern/Fresher)
 >Using the Kotlin language, have the function BitmapHoles(strArr: Array<String>): String 
-/*
 Using the Kotlin language, have the function BitmapHoles(strArr: Array<String>): String 
 take the array of strings stored in strArr, which will be a 2D matrix 
 of 0 and 1's, and determine how many holes, or contiguous regions of 0's, 
@@ -22,7 +22,6 @@ exist in the matrix. A contiguous region is one where there is a
 Output:3
 Input:"1011", "0010"
 Output:2
-*/
 
 
 # CODE
