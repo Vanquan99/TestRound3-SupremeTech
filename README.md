@@ -2,7 +2,7 @@
 
 [Please click this](https://coderbyte.com/sl-candidate?promo=supremetechcoltd-j377u:algorithm-assessment-1vp6bd6z2l) to start the Coderbyte Test.
 
-[Round 1]()
+[Round 1](https://github.com/Vanquan99/TestRound-SupremeTech)
 
 [Round 2]()
 
